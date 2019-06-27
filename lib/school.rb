@@ -20,6 +20,7 @@ def sort
   roster.each do |grade, students|
    roster_sort[grade] = students.sort
  end 
+ roster_sort
 end
 
 end 
