@@ -6,7 +6,10 @@ def initialize(name)
   @roster = {}
 end 
 
-def 
+def add_student(name)
+  
+end 
+  
 
 end 
 
