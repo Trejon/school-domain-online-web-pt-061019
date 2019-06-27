@@ -7,7 +7,7 @@ def initialize(name)
 end 
 
 def add_student(students_name, grade)
-  roster[grade]  || = []
+  roster[grade] ||= []
   roster[grade] << students_name
 
 end 
