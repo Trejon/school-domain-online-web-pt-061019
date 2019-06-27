@@ -3,10 +3,10 @@ class School
 @name 
 @roster 
 
-#def initizailize(name) 
- # @name = name 
-  #@roster = {}
-#end 
+def initizailize(name, roster) 
+  @name = name 
+  @roster = {}
+end 
 
 #def roster 
  # @roster 
