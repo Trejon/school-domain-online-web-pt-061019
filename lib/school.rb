@@ -1,5 +1,6 @@
 # code here!
 class School 
-def initizailize(roster) 
+def initizailize(name) 
+  @name = name 
 end 
 end 
